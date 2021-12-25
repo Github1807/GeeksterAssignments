@@ -12,7 +12,7 @@ public class LastIndex_PresentInArray {
         for(int j=0;j<a;j++){
             num[j]= sc.nextInt();
         }
-        System.out.println("enter the number you want to find");
+        System.out.println("enter the number to be found");
         int n = sc.nextInt();
         boolean ispresent=false;
         int pos=-1;
