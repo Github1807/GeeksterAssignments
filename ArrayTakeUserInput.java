@@ -11,4 +11,4 @@ public class ArrayTakeUserInput {
         }
     }
 }
-© 2021 GitHub, I
+
