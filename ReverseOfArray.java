@@ -1,4 +1,4 @@
-package geeksterAssignments;
+package geeksterAssignment;
 
 public class ReverseOfArray {
     public static void main(String[] args) {
