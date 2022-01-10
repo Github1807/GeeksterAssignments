@@ -19,5 +19,5 @@ public class stringPalindrome_OrNot {
 		}
 		System.out.println("ans for array is"+flag);
 		
-	}
+}
 }
